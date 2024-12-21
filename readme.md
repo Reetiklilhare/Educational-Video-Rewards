@@ -8,6 +8,8 @@ The **Educational Video Rewards** contract allows content creators to submit edu
 
 ## Contract Address
 0xde0a06a1685757458088446373e4fb432cb81c85
+![image](https://github.com/user-attachments/assets/7aa7bfb6-1f62-4202-8273-5e9f5c2ab135)
+
 
 ## Project Vision
 The vision of this project is to create a decentralized platform where educational content creators are rewarded for their contributions. By utilizing blockchain technology, this platform ensures transparency and fairness in the reward distribution process, providing an incentive for creators to share valuable educational content with the community.
